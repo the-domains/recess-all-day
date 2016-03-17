@@ -1,0 +1,28 @@
+name: Recess All Day
+favicon: null
+layout_spectrum: 0.1882849452085793
+typography_spectrum: 0.8026518928818405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7018820475786924
+  lightness: 0.00506182387471199
+  saturation: 0.25648701563477516
+  rhythmicContrast: 0.4256802932359278
+purpose: []
